@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ho Ngoc An</h1>
-<h3 align="center">💻 Full-Stack Developer | 🤖 AI & Machine Learning Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Developer 
 
 <!-- Badges -->
 <p align="center">
@@ -14,7 +14,7 @@
 - 🎓 **BSc in Network Engineering** at Ho Chi Minh International University (2021–2025)  
 - 🖥️ Skilled in **Java, Spring Boot, React, MySQL, Docker**  
 - 🌱 Currently exploring **AI integration in Full-Stack Web Development**  
-- 💼 Former **Backend Developer Intern** at FPT Software & Solution Company  
+- 💼 Former **Frontend Developer Intern** at Mpire Agency
 - 📫 Reach me at: **hngocan.forwork@gmail.com**  
 
 ---
